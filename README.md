@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alpay</h1>
 <h3 align="center">Co Founder by Aluma</h3>
 
-- 🔭 I'm currently working on **digital business card,tırsepeti.com ,tırsepeti app**
+- 🔭 I'm currently working on **digital business card app, digital business card web ,tırsepeti.com ,tırsepeti app**
 
 - 🌱 I'm currently learning **everything for work**
 
