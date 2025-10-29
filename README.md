@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **You can ask whatever you want**
 
-- 📫 How to reach me **alpayalbayrak59@gmail.com**
+- 📫 How to reach me **alpayalbayrak59@gmail.com and alpay@alumatechnology.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
