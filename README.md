@@ -3,9 +3,13 @@
 
 - 🔭 I'm currently working on **  heats.social , Heats app , tırsepeti.com , tırsepeti app **
 
-  Ttırsepeti : https://xn--trsepeti-tkb.com/ , https://play.google.com/store/apps/details?id=com.tirsepeti.tirmobil , https://apps.apple.com/tr/app/t%C4%B1rsepeti/id6754330505 
+- Tırsepeti : https://xn--trsepeti-tkb.com/ , https://play.google.com/store/apps/details?id=com.tirsepeti.tirmobil , https://apps.apple.com/tr/app/t%C4%B1rsepeti/id6754330505 
 
-- Heats : https://www.heats.social/ 
+- Heats : https://www.heats.social/
+
+- Goos : https://goos.org.tr/  ,https://play.google.com/store/apps/details?id=com.companyname.goosmobil&utm_source=emea_Med
+
+- E-Hoos : coming soon 
 
 - 🌱 I'm currently learning **everything for work**
 
